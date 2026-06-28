@@ -97,6 +97,7 @@
  - トレーニングコースでは、受講者にご自身でPCを準備して頂き、実際に操作しながらコマンドラインについて学んでいきます。PCのスペックについては、以下のURLに記載のある **推奨条件** を参考にして下さい。
 
    - [PCスペックの推奨条件はこちら](https://github.com/kytk/nips-web-2026/wiki/01_PC_requirements) 
+
  
   - Lin4Neuroでの受講を推奨しますが、macOS native 環境で受講したい方々のために、インストラクションを準備しました。[こちら](https://kytk.github.io/nips-web-2025/macOS_native.html)をご確認ください。
 
